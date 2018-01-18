@@ -8,6 +8,11 @@
         android:title="Add"
         app:showAsAction="always" />
     <item
+        android:id="@+id/menu_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="EDIT"
+        app:showAsAction="always" />
+    <item
         android:id="@+id/menu_options"
         android:title="Options" />
 </menu>
